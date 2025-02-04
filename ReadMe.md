@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | 2 years experience in Next.js, Node.js, MongoDB | Passionate about building efficient web applications and continuously learning new.<br>
+Full Stack Developer | 2+ years experience in Next.js, Node.js, MongoDB | Passionate about building efficient web applications and continuously learning new.<br>
 
 
 ## 🌐 Socials:
